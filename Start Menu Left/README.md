@@ -9,3 +9,6 @@ powershell.exe install.ps1
 File or Folder exists
 Path: C:\Temp\StartMenuLeft\
 File: StartMenuLeft.ps1.tag
+
+### Assignments
+This script is designed to be assigned at the user level. however, this can be assigned at the device level and any user logging into the device will have the script executed.
